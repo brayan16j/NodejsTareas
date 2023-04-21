@@ -1,0 +1,6 @@
+projectKey=Api-iniciantes-brayan-granada
+serverUrl=https://sonarqube.konecta.cloud
+serverVersion=8.9.10.61524
+dashboardUrl=https://sonarqube.konecta.cloud/dashboard?id=Api-iniciantes-brayan-granada
+ceTaskId=AYebIUqJj2INNhMqanJn
+ceTaskUrl=https://sonarqube.konecta.cloud/api/ce/task?id=AYebIUqJj2INNhMqanJn
